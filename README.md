@@ -1,1 +1,36 @@
-# balta-desafio-caca-aos-bugs-2025_06-demogorgon
+![github-repository-share_demogorgon](https://github.com/user-attachments/assets/c91f9801-76f6-4134-a4ef-ad4f96e93ca8)
+
+## 👻 Caça aos Bugs 2025 - Desafio 06 - Demogorgon
+
+Oi, eu sou o [seu nome aqui] e este é o espaço onde compartilho minha jornada de aprendizado durante o desafio **Caça aos Bugs 2025**, realizado pelo [balta.io](https://balta.io). 👻
+
+Aqui você vai encontrar projetos, exercícios e códigos que estou desenvolvendo durante o desafio. O objetivo é colocar a mão na massa, testar ideias e registrar minha evolução no mundo da tecnologia.
+
+### Sobre este desafio
+No desafio **Demogorgon** eu tive que implementar as funcionalidades extras de CRUD do projeto.
+Neste processo eu aprendi:
+* ✅ CRUD
+* ✅ Entity Framework
+* ✅ Acesso à Dados
+* ✅ API
+
+## REGRAS DO DESAFIO
+- [ ] Realizar um fork do repositório do desafio
+- [ ] Criar um método CREATE
+- [ ] Criar um método READ
+- [ ] Criar um método UPDATE
+- [ ] Criar um método DELETE
+- [ ] Compilar o projeto
+- [ ] Executar o projeto
+- [ ] Realizar a leitura de todos os itens
+- [ ] Realizar a leitura de um item
+- [ ] Realizar a criação de um item
+- [ ] Realizar a atualização de um item
+- [ ] Realizar a exclusão de um item
+
+## Sobre o Caça aos Bugs
+O desafio **Caça aos Bugs 2025** consiste em encontrar bugs e sugerir melhorias para aplicações em cenários reais. Durante os 9 desafios desta jornada, os participantes são submetidos ao aprendizado e prática de Depuração de Aplicações, Testes de Unidade, Testes E2E, Melhorias de UI, Melhorias de Performance, Deployment e Infraestrutura,
+Banco de Dados.
+
+### Veja meu progresso no desafio
+[Incluir link para o repositório central]
