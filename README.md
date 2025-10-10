@@ -16,17 +16,9 @@ Neste processo eu aprendi:
 
 ## REGRAS DO DESAFIO
 - [ ] Realizar um fork do repositório do desafio
-- [ ] Criar um método CREATE
-- [ ] Criar um método READ
-- [ ] Criar um método UPDATE
-- [ ] Criar um método DELETE
-- [ ] Compilar o projeto
-- [ ] Executar o projeto
-- [ ] Realizar a leitura de todos os itens
-- [ ] Realizar a leitura de um item
-- [ ] Realizar a criação de um item
-- [ ] Realizar a atualização de um item
-- [ ] Realizar a exclusão de um item
+- [ ] Criar uma busca completa no cliente
+- [ ] Criar uma busca completa no produto
+- [ ] Criar uma busca completa no pedido
 
 ## Sobre o Caça aos Bugs
 O desafio **Caça aos Bugs 2025** consiste em encontrar bugs e sugerir melhorias para aplicações em cenários reais. Durante os 9 desafios desta jornada, os participantes são submetidos ao aprendizado e prática de Depuração de Aplicações, Testes de Unidade, Testes E2E, Melhorias de UI, Melhorias de Performance, Deployment e Infraestrutura,
